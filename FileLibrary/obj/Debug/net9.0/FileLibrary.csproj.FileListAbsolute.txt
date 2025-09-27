@@ -1,0 +1,12 @@
+C:\Users\ADmin\Desktop\L1\FileLibrary\bin\Debug\net9.0\FileLibrary.deps.json
+C:\Users\ADmin\Desktop\L1\FileLibrary\bin\Debug\net9.0\FileLibrary.dll
+C:\Users\ADmin\Desktop\L1\FileLibrary\bin\Debug\net9.0\FileLibrary.pdb
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\FileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\FileLibrary.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\FileLibrary.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\FileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\FileLibrary.dll
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\refint\FileLibrary.dll
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\FileLibrary.pdb
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\ref\FileLibrary.dll
+C:\Users\ADmin\Desktop\L1\FileLibrary\obj\Debug\net9.0\FileLibrary.sourcelink.json
